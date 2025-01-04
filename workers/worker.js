@@ -7,8 +7,21 @@ const TG_TOKEN = '';        // 替换为你的Telegram Bot的token
 
 // 24小时不间断访问的URL数组,可添加环境变量，环境变量名格式：URL_1 URL_2 URL_3...
 const defaultUrls = [            
-  'https://www.google.com',             
-  'https://www.google.com',
+  'https://crawling-laced-gemini.glitch.me',             // 此处可备注名称，例如：glitch
+  'https://4xgmrm-3000.csb.app/',             // 此处可备注名称，例如：glitch
+  'https://spurious-statuesque-file.glitch.me',             // 此处可备注名称，例如：glitch
+  'https://soapy-trusted-brook.glitch.me/',             // 此处可备注名称，例如：glitch
+  'https://soapy-trusted-brook.glitch.me/',             // 此处可备注名称，例如：glitch
+  'https://huanle.fly.dev/',             // 此处可备注名称，例如：glitch
+  'https://ae031233-0a1a-4f84-8717-d178b102a58c.e1-eu-north-azure.choreoapps.dev',             // 此处可备注名称，例如：glitch
+  'https://ae031233-0a1a-4f84-8717-d178b102a58c.e1-eu-north-azure.choreoapps.dev/sub',             // 此处可备注名称，例如：glitch
+  'https://nod4render.onrender.com/',             // 此处可备注名称，例如：glitch
+  'https://57207-3000.4.codesphere.com/',             // 此处可备注名称，例如：glitch
+  'https://institutional-meryl-thisistheway-605d907b.koyeb.app/',             // 此处可备注名称，例如：glitch
+  'https://30ad0d70-3c92-480c-b565-203bd147f194.e1-eu-north-azure.choreoapps.dev',             // 此处可备注名称，例如：glitch
+  'https://30ad0d70-3c92-480c-b565-203bd147f194.e1-eu-north-azure.choreoapps.dev/sub',             // 此处可备注名称，例如：glitch
+  'https://b42f442d-a29c-4035-ba83-808f8fd6246c.e1-eu-north-azure.choreoapps.dev',             // 此处可备注名称，例如：glitch
+  'https://b42f442d-a29c-4035-ba83-808f8fd6246c.e1-eu-north-azure.choreoapps.dev/sub',             // 此处可备注名称，例如：glitch
   'https://www.google.com'  // 可添加多个URL，每个URL之间用英文逗号分隔,最后一个URL后不要加逗号
 ];
 
